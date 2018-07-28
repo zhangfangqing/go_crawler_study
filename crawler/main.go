@@ -26,5 +26,4 @@ func main() {
 		panic(err)
 	}
 	fmt.Printf("%s\n", all)
-
 }
